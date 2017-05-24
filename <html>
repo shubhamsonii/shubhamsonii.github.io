@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<title>
+			First Attempt
+		</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="row" id="a">
+			<div class="col" id="cb">
+				<p>A</p>
+			</div>
+			<div class="col" id="cw">
+				<p>B</p>
+			</div>
+			<div class="col" id="cb">
+				<p>C</p>
+			</div>
+		</div>
+
+		<div class="row" id="b">
+			<div class="col" id="cw">
+				<p>D</p>
+			</div>
+			<div class="col" id="cb">
+				<p>E</p>
+			</div>
+			<div class="col" id="cw">
+				<p>F</p>
+			</div>
+		</div>
+		<div class="row" id="c">
+			<div class="col" id="cb">
+				<p>G</p>
+			</div>
+			<div class="col" id="cw">
+				<p>H</p>
+			</div>
+			<div class="col" id="cb">
+				<p>I</p>
+			</div>
+		</div>
+
+	</body>
+</html>             
